@@ -1,14 +1,4 @@
-System.out.print("Hello");
-System.out.print("Hello");
-System.out.print("Hello");
-System.out.print("Hello");
-System.out.print("Hello");
-System.out.print("Hello");
-System.out.print("Hello");
-System.out.print("Hello");
-System.out.print("Hello");
-System.out.print("Hello");
-System.out.print("Hello");
+System.out.println("Performing...");
 
 for(int i = 0; i < 45; i++) {
 	System.out.printf("%4d", i);
