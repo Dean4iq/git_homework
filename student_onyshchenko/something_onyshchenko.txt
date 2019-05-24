@@ -3,5 +3,3 @@
 private void functionality(Set<String> userLogins) {
 	boolean isPresent = userLogins.stream().anyMatch(login->);
 }
-
-//I duntwantthis
