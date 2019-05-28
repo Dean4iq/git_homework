@@ -2,3 +2,5 @@ public static void main(String[] args) {
 	//perform something
 	call(new Object()[]);
 }
+
+//useless?useful!
