@@ -5,5 +5,6 @@ class Greeter
   def greet
     "Hello, #{@who}"
 	"Your soul is mine! #{@who}'ll be next!"
+	"Who's here?"
   end
 end
